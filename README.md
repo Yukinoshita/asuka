@@ -1,2 +1,2 @@
 # shell
-Some useful scripts
+Scripts for my own use
